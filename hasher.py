@@ -28,7 +28,10 @@ def encode():
     print ('\033[92m[ + ] This is your Hash => %s' % m.hexdigest())
 
 def crack():
-    f = open(i, 'r')
+    try:
+        f = open(i, 'r')
+    except:
+        print ('\033[91m[ - ] Password List Not Found ... :(')
     for v in f.readlines():
         v = v.replace('\n','')
         m = hashlib.md5()
