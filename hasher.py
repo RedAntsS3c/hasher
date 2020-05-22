@@ -23,7 +23,7 @@ def banner():
 def encode():
     
     m = hashlib.md5()
-    e = bytes(l.encode('utf-8'))
+    e = bytes(i.encode('utf-8'))
     m.update(e)
     print ('\033[92m[ + ] This is your Hash => %s' % m.hexdigest())
 
