@@ -1,2 +1,3 @@
 # hasher
-for fastest offline crack md5
+For cracking MD5 hashes offline.
+This tool uses hash libraries in python.
