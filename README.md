@@ -1,5 +1,5 @@
 # hasher
-For cracking MD5 hashes offline.
+For Encoding/Decoding MD5 hashes offline.
 
 This tool uses hash libraries in python.
 # Contacting us
