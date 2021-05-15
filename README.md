@@ -5,7 +5,7 @@ This tool uses hash libraries in python.
 # Contacting us
 Our Email : RedAntsSec@gmail.com 
 
-Our channel in Telegram/Github : @RedAntsSec
+Our channel in Telegram/Github : @RedAntsS3c
 
 Please contact me for reporting bugs and suggestions...
 
